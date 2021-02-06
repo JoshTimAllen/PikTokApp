@@ -1,0 +1,17 @@
+{
+  "_id": {
+    "Timestamp": 0,
+    "Machine": 0,
+    "Pid": 0,
+    "Increment": 0,
+    "CreationTime": "1970-01-01T00:00:00Z"
+  },
+  "userId": null,
+  "DateRegistered": "0001-01-01T00:00:00",
+  "Email": null,
+  "Password": null,
+  "profile": {
+    "DisplayName": "Josh",
+    "DisplayImageUrl": "https://static.wikia.nocookie.net/worldtrigger/images/e/ee/Kyosuke_Portrait.jpg/revision/latest?cb=20140612192537"
+  }
+}
